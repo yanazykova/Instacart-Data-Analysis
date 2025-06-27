@@ -4,3 +4,6 @@
 *.csv
 orders.csv
 order_products__prior.csv
+instacart.db
+*.DS_Store
+.ipynb_checkpoints/
