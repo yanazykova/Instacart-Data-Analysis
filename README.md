@@ -21,6 +21,17 @@ If you'd like to run this project locally:
 
 The project will work as intended once the files are in place.
 
+## SQL Integration
+
+This project demonstrates SQL-based analysis of Instacart's grocery order dataset using SQLite and Python. Queries explore:
+- Ordering patterns by day and hour
+- Product demand trends
+- Customer reorder behavior
+- Average basket size
+
+This mirrors business-critical reporting tasks common in data analyst roles.
+
+
 ## 🛠 Tools & Technologies
 - Python (pandas, matplotlib)
 - Jupyter Notebook
