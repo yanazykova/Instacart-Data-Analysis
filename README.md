@@ -37,12 +37,6 @@ This mirrors business-critical reporting tasks common in data analyst roles.
 - Jupyter Notebook
 - Basic data wrangling and visualisation
 
-## 🚀 Next Steps
-Further analysis planned:
-- Product-level demand trends
-- Repeat purchase behavior
-- Joining orders with product details
-
 ## ⚡ About Me
 I'm transitioning into data roles with a background in project supervision, administration, and charitable sectors. This project reflects my passion for practical data analysis and preparing for roles like Data Analyst or Reporting Analyst.
 
